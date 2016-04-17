@@ -26,7 +26,7 @@ $brand-warning: #F0AD4E !default;
 $brand-danger: #D9534F !default;
 
 //** Background color for `<body>`.
-$body-bg: #FFFFFF !default;
+$body-bg: #f2f2f2 !default;
 
 /**
  * Text styles
@@ -39,7 +39,7 @@ $body-bg: #FFFFFF !default;
  */
 
 //** Global text color on `<body>`.
-$text-color: #808080 !default;
+$text-color: #314d5d !default;
 
 //** Global textual link color.
 $link-color: $brand-primary !default;
@@ -48,7 +48,7 @@ $link-hover-color: darken($link-color, 15%) !default;
 //** Link hover decoration.
 $link-hover-decoration: underline !default;
 
-$font-family-sans-serif: "Helvetica Neue", "Helvetica", "Arial", "Verdana", sans-serif !default;
+$font-family-sans-serif: "Work Sans", "Helvetica Neue", "Helvetica", "Arial", "Verdana", sans-serif !default;
 $font-family-base: $font-family-sans-serif !default;
 
 $font-size-base: 14px !default;

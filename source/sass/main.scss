@@ -7,11 +7,11 @@
 //
 //@import 'helpers/_mixins.scss';
 //
-//@import 'helpers/_variables.scss';
+@import 'helpers/_variables.scss';
 //
-//@import 'helpers/_reset.scss';
+@import 'helpers/_reset.scss';
 //
-//@import 'helpers/_grid.scss';
+@import 'helpers/_grid.scss';
 //
 //@import 'helpers/_slider.scss';
 //
@@ -23,6 +23,8 @@
 // Partials
 
 @import 'partials/_header.scss';
+
+@import 'partials/_mainCnt.scss';
 
 
 @import 'partials/_footer.scss';
